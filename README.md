@@ -34,38 +34,38 @@ Dedicated to building high-performance backend systems, handling complex data wo
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revanesyazilvi-ship-it&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=revanesyazilvi&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=revanesyazilvi-ship-it&theme=radical" alt="Languages by Repository" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=revanesyazilvi-ship-it&theme=radical" alt="Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=revanesyazilvi&theme=radical" alt="Languages by Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=revanesyazilvi&theme=radical" alt="Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=revanesyazilvi-ship-it&theme=radical&hide_border=true" alt="Contribution Graph" height="300" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=revanesyazilvi&theme=radical&hide_border=true" alt="Contribution Graph" height="300" />
 </p>
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=revanesyazilvi-ship-it&theme=radical&hide_border=true" alt="GitHub contribution streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=revanesyazilvi&theme=radical&hide_border=true" alt="GitHub contribution streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/revanesyazilvi-ship-it/revanesyazilvi-ship-it/main/metrics.plugin.pagespeed.svg" alt="PageSpeed metrics for revanesyazilvi-ship-it" width="100%" />
+      <img src="https://raw.githubusercontent.com/revanesyazilvi/revanesyazilvi/main/metrics.plugin.pagespeed.svg" alt="PageSpeed metrics for revanesyazilvi" width="100%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/revanesyazilvi-ship-it?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/revanesyazilvi-ship-it?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/revanesyazilvi?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/revanesyazilvi?style=social" alt="Stars" />
 </p>
 
 ---
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revanesyazilvi-ship-it/revanesyazilvi-ship-it/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revanesyazilvi-ship-it/revanesyazilvi-ship-it/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/revanesyazilvi-ship-it/revanesyazilvi-ship-it/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/revanesyazilvi/revanesyazilvi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/revanesyazilvi/revanesyazilvi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/revanesyazilvi/revanesyazilvi/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
